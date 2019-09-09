@@ -30,3 +30,5 @@ During this semester in introduction to information technology I expect to learn
 
 https://www.seek.com.au/job/39832064?searchrequesttoken=4462aba2-0705-4258-8d01-6145f96ed7f2&type=standout
 
+![IT job](https://user-images.githubusercontent.com/54766413/64545442-e1820e80-d367-11e9-8926-41a2502dd435.PNG)
+
